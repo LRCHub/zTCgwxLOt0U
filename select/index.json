@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Be Yourself",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T08:48:18.586117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/01_Be_Yourself_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/02_Be_Yourself_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/03_Be_Yourself_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/04_Be_Yourself_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Be Yourself",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/05_Just_Be_Yourself_Cameo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Be_Yourself_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please… don’t be yourself",
+      "artist": "Soulwax",
+      "has_synced": false,
+      "path": "select/07_Please..._don’t_be_yourself_Soulwax.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Please... Don't be Yourself",
+      "artist": "Soulwax",
+      "has_synced": false,
+      "path": "select/08_Please..._Don't_be_Yourself_Soulwax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/09_Be_Yourself_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/10_Be_Yourself_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Audioslave",
+      "has_synced": true,
+      "path": "select/11_Be_Yourself_Audioslave.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be Yourself - Live on Jimmy Kimmel",
+      "artist": "Audioslave",
+      "has_synced": false,
+      "path": "select/12_Be_Yourself_-_Live_on_Jimmy_Kimmel_Audioslave.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be Yourself",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/13_Be_Yourself_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be Yourself (1996 Remaster)",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/14_Be_Yourself_(1996_Remaster)_Hawkwind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Yourself",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Yourself_Frank_Ocean.txt"
+    }
+  ]
+}
